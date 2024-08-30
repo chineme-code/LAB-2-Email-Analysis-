@@ -41,7 +41,7 @@ In this lab, I explored various techniques and tools to analyze a suspicious ema
 8. **Metadata Analysis with ExifTool**:
    - Used [ExifTool](https://exiftool.org/) to read the metadata of documents in the `popcoando` folder.
 
-###= Tools Used in This Challenge:
+### Tools Used in This Challenge:
 - **Thunderbird**: For reading `.eml` files.
 - **Mousepad**: A text editor for inspecting file content.
 - **CyberChef**: To decode Base64 content.
